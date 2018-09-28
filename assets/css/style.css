@@ -1,0 +1,113 @@
+#global-header {
+    background-color: blue;
+   }
+   
+   
+   .jumbotron{
+       background: url(../Images/3030.jpg) no-repeat center center; 
+      height: 100vh;
+       background-size: cover;
+       padding-bottom:40rem; 
+       padding: 0;
+       padding-bottom:40rem; 
+   box-sizing: none;
+   border: solid 1px rgb(221, 248, 24);
+   
+   }
+   .jumbotron1{
+       background: url(../Images/fit1.jpg) no-repeat center center; 
+       border: solid 1px rgb(221, 248, 24);
+       background-size: cover;
+       padding-bottom:40rem; 
+       padding: 0;
+       padding-bottom:40rem; 
+   box-sizing: none;
+   }
+   
+   .jumbotron2{
+       background: url(../Images/food2.jpg) no-repeat center center; 
+       border: solid 1px rgb(221, 248, 24);
+       background-size: cover;
+       padding-bottom:40rem; 
+       padding: 0;
+       padding-bottom:40rem; 
+   box-sizing: none;
+   }
+   
+   
+   .jumbotron3{
+       background: url(../Images/activity.jpg) no-repeat center center; 
+       border: solid 1px rgb(221, 248, 24);
+       background-size: cover;
+       padding-bottom:40rem; 
+       padding: 0;
+       padding-bottom:40rem; 
+   box-sizing: none;
+   }
+   
+   #display-date {
+      text-align: center;
+      justify-content: center;
+      margin-top: 1%;
+      font-size: 22px
+   }
+   
+   .calorie-container {
+      text-align: center;
+      justify-content: center;
+      margin-top: 5%;
+   }
+   
+   .macro-row {
+      text-align: center;
+      justify-content: center;
+      margin-top: 7%;
+   }
+   
+   
+   html, .container{
+       background-color: rgb(99, 99, 91);
+       min-height: 100%;
+       padding: 0;
+       min-width: 100%;
+       min-width: 100%;
+       top: -10;
+       text-align: center;
+       font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+       color: rgb(221, 248, 24) ;
+       text-shadow:  rgb(44, 44, 30);
+       font-size: larger;
+       padding-left: 0;
+       padding-right: 0;
+   
+   }
+   
+   .contain{
+   
+       text-align: center;
+       font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+       color: rgb(221, 248, 24) ;
+       font-size: large;
+       
+   }
+   
+   #display-date{
+   background-color: rgb(99, 99, 91);
+   font: 400 100px/1.2 'Merienda One', Helvetica, sans-serif;
+   color: rgb(221, 248, 24) ;
+   font-size: large;
+   margin-top: 0;
+   }
+   /*#display-date{
+       background-color: rgb(44, 44, 30);
+   
+   }*/
+   
+   
+   #whole{
+       padding: 0%;
+   }
+   .bg-light{
+       background-color: #000000!important;
+   }
+   
